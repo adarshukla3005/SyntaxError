@@ -1,4 +1,1 @@
-# SyntaxError
-
-# aaaaaaaaaaaahhhhhh
-
+Syntax Error APP
